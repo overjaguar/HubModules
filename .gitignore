@@ -1,0 +1,5 @@
+*/__pycache__/*
+__pycache__/*
+modules/EmotivEEG/log/*
+modules/MiBand/log/*
+modules/TobiiGaze/Samples/log/*
